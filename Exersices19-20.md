@@ -14,7 +14,7 @@ Don't forget the space after the closing parentheses!
 Q20. Write a game with python, when the game starts the program would generate a random number between 1 to 10 and user should guess the number. 
 user could guess the correct number up to 4 guesses.
 
-Each time user enters a wrong input prints ````wrong answer, you have {number of guesses that left} guesses left``` until the user reach the 4 guesses. and if he/she could not enter the corrcect answer after 4 times prints ```Sorry you lost, the correct answer is {answer}```. if the user guessed the correct answer prints ```Congratulations, you have won!```
+Each time user enters a wrong input prints ```wrong answer, you have {number of guesses that left} guesses left``` until the user reach the 4 guesses. and if he/she could not enter the corrcect answer after 4 times prints ```Sorry you lost, the correct answer is {answer}```. if the user guessed the correct answer prints ```Congratulations, you have won!```
 
 Note: program should get number from the user with ```input``` function, and use while loop to solve the program.
 
